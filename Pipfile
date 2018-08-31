@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "==1.14.5"
+vispy = "==0.5.3"
+PyQt5 = "==5.10.1"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
